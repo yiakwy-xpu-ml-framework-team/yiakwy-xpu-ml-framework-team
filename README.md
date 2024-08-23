@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yiakwy-xpu-ml-framework-team
-- 👀 I’m interested in accelerating the word through algorithms, chips and intelligence. \(compiler/transpiler, c++ for critical performance path and python bindings for HPC application.\)
+- 👀 I’m interested in accelerating the word through algorithms, chips and intelligence. \(compiler/transpiler, c++ ops development/optimization for critical path of overall performance and python bindings for HPC application.\)
 - 🌱 I’m currently working on core framework infrastracture and AI compilier technologies.
 - 📫 Please drop me a message through yiak.wy@gmail.com
 
